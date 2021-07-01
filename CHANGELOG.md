@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/joaopavila/poc-changelog/compare/v0.1.4...v0.1.5) (2021-07-01)
+
+
+### Func
+
+* add scripts release ([babd84b](https://github.com/joaopavila/poc-changelog/commit/babd84be2f4ba9e4b094a85cb1eb625451bfb730))
+
 ### [0.1.4](https://github.com/joaopavila/poc-changelog/compare/v0.1.3...v0.1.4) (2021-07-01)
 
 
