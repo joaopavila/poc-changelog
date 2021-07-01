@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/joaopavila/poc-changelog/compare/v1.5.0...v1.6.0) (2021-07-01)
+
+
+### Func
+
+* remove line ([3088157](https://github.com/joaopavila/poc-changelog/commit/30881573518e4bb57582867ce01ec276f77ecd01))
+* remove line ([8f6d5b5](https://github.com/joaopavila/poc-changelog/commit/8f6d5b586ef44f25f12e87ee27aac5b9713183d3))
+* remove line ([0a69ee3](https://github.com/joaopavila/poc-changelog/commit/0a69ee3ce887eb8a2a0e577612f3eb98ddefea73))
+
 ## [1.5.0](https://github.com/joaopavila/poc-changelog/compare/v1.4.0...v1.5.0) (2021-07-01)
 
 
