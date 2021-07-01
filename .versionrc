@@ -6,8 +6,8 @@
     {"type": "docs", "section": "Documentation"},
     {"type": "style", "section": "Style"},
     {"type": "refactor", "section": "Refactor"},
-    {"type": "perf", "section": "Perf"},
+    {"type": "perf", "section": "Performance"},
     {"type": "test", "section": "Test"}
   ],
-  "releaseCommitMessageFormat": "chore: {{currentTag}} [skip ci]"
+  "releaseCommitMessageFormat": "chore(release): {{currentTag}} [skip ci]"
 }
