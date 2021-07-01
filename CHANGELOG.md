@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/joaopavila/poc-changelog/compare/v1.1.0...v1.1.1) (2021-07-01)
+
+
+### Errors
+
+* remove folder github ([a4f7b15](https://github.com/joaopavila/poc-changelog/commit/a4f7b15b1885d45dec138cc328274a8cd762136d))
+
 ## [1.1.0](https://github.com/joaopavila/poc-changelog/compare/v1.0.0...v1.1.0) (2021-07-01)
 
 
