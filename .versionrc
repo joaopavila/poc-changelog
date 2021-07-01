@@ -3,7 +3,7 @@
     {"type": "feat", "section": "Funcionalidades"},
     {"type": "fix", "section": "Errors Corrigidos"},
     {"type": "chore", "section": "Chore"},
-    {"type": "docs", "section": "Docs"},
+    {"type": "docs", "section": "Documentation"},
     {"type": "style", "section": "Style"},
     {"type": "refactor", "section": "Refactor"},
     {"type": "perf", "section": "Perf"},
