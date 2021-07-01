@@ -1,6 +1,6 @@
 {
   "types": [
-    {"type": "feat", "section": "Funcionalidades"},
+    {"type": "feat", "section": "Func"},
     {"type": "fix", "section": "Errors"},
     {"type": "chore", "section": "Chore"},
     {"type": "docs", "section": "Documentation"},
